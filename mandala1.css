@@ -1,0 +1,12 @@
+body{width: 960px;background-color: lavender;}
+.informasi{width:960px;margin:48px -23px;}
+.informasi .kos{float: left;width: 500px; height: 130px; margin: 4px 25px; background-color: lightblue;}
+.informasi .kos .kiri{width: 90px; height: 90px; float: left;}
+.informasi .kos .kiri img{width: 90px; height: 90px; margin: 4px;}
+a{text-decoration: none; color: black;}
+.informasi .kos .kanan{float: left;width: 190px; height: 100px; float: left;}
+.informasi .kos .kanan h3{font-size: 12px; margin: 7px;}
+.informasi .kos .kanan p{font-size: 12px; margin: 10px;}
+ .bg{background-color: white; margin: 10px;}
+ .a{float: left; width: 960px; margin: 1px 5px;}
+.a a:hover{color: green;}
